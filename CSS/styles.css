@@ -1,0 +1,23 @@
+#container{
+    display: flex;
+    flex-wrap: wrap;
+}
+span{
+    width:75px;
+    height: 75px;
+    text-align: center;
+    font-size: larger;
+}
+.fizzbuzz{
+    background-color: green;
+    color: rgb(255, 254, 199);
+}
+.fizz{
+    background-color: red;
+    color: rgb(255, 254, 199);
+}
+.buzz{
+    background-color: blue;
+    color: rgb(255, 254, 199);
+
+}
